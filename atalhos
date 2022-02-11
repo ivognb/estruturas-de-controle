@@ -1,0 +1,3 @@
+ctrl + d = seleciona todas as mesmas palavras
+ctrl + ; = comenta as linhas selecionadas sem apagar os codigos com //
+shift + alt + a = comenta as linhas selecionadas sem apagar os codigos com /**/
